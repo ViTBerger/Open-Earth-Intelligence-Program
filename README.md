@@ -4,7 +4,13 @@
 
 ## Research Thrusts / Strategic Vectors
 ### Vector 1: Advanced Model Architectures
-### Vector 2: Heterogeneous Geospatial Modality Fusion
+### ### Vector 2: Heterogeneous Geospatial Modality Fusion
+*   **Objective:** To create a unified and coherent representation space that seamlessly fuses the full spectrum of geospatial data. This vector tackles the unique challenge of remote sensing data's heterogeneity, unlocking insights that are invisible to any single modality.
+*   **Key Explorations & Projects:**
+    *   **Beyond Vision-Language:** Moving past standard RGB and text to deeply integrate remote sensing-specific modalities, including Synthetic Aperture Radar (SAR), Multispectral/Hyperspectral imagery, and elevation data.
+    *   **Cross-Modal Alignment:** Designing novel alignment techniques and fusion layers that respect the distinct physical properties and statistical distributions of each data source.
+    *   **Associated Publications:** [Link to Paper C]
+    *   **Code:** [Link to Repo C]
 ### Vector 3: Enhanced Cognitive & Inferential Reasoning
 *   **Objective:** To elevate the model's capabilities from basic perception to complex cognitive reasoning. This vector aims to enable the model to function less like a tool and more like an expert analyst, capable of understanding intent and executing multi-step analytical tasks.
 *   **Key Explorations & Projects:**
